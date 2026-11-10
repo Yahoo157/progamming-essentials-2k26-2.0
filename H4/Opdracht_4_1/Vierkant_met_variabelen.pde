@@ -1,0 +1,11 @@
+size(500,500);
+background(255);
+int rood= 255;
+int groen= 100;
+int blauw= 0;
+fill(rood, groen, blauw);
+int samir= 50;
+int mama= 200;
+int papa= 200;
+int doku= 200;
+rect(samir, mama, papa, doku);

@@ -1,0 +1,10 @@
+size (500,500);
+background(255);
+int milan= (15%2);
+int nuo= (31%3);
+int pika= (10%5);
+int rola= (38%4);
+println(milan);
+println(nuo);
+println(pika);
+println(rola);

@@ -1,0 +1,11 @@
+size(500,500);
+background(255);
+int rood = 255;
+int groen = 100;
+int blauw = 0;
+fill(blauw,groen,blauw);
+int maxime = 55;
+int timur = 200;
+int milan = 20;
+int oma = 20;
+rect(maxime,timur,milan,oma);

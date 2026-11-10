@@ -1,0 +1,11 @@
+size(500,500);
+background(43,96,193);
+fill(249,201,225);
+textSize(15);
+text("Yagho",200,150);
+fill (148,0,211);
+textSize(15);
+text("Freire",200,200);
+textSize(15);
+fill (0,255,0);
+text("Mijn hobby's zijn sporten en gamen",200,250); 
